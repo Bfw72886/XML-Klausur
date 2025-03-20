@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="pink">#ea0a8e </color>
+    <color name="link">#2379C6</color>
+    <color name="darkblue">#0433BF</color>
+    <color name="twitterblue">#26a7de </color>
+    <color name="grey">#ACACAC</color>
+    <color name="green">#2BD41F</color>
 </resources>

@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">XML-Klausur</string>
+    <string name="anmeldung">Anmeldung</string>
+    <string name="brian_otto">Brian Otto</string>
+    <string name="passwort">Passwort</string>
+    <string name="passwort_vergessen_hier_klicken">Passwort vergessen? Hier klicken.</string>
+    <string name="anmelden">ANMELDEN</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="twitter">TWITTER</string>
+    <string name="account_anlegen">Account anlegen?</string>
+    <string name="mit_facebook_oder_twitter_account_anmelden">Mit Facebook oder Twitter Account anmelden</string>
+    <string name="registrieren">REGISTRIEREN</string>
 </resources>
